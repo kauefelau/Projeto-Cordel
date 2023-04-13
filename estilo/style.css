@@ -61,6 +61,11 @@ section.normal {
     color: black;
 }
 
+section.normal p {
+    padding-bottom: 60px;
+}
+
+
 section.imagem > p {
     display: inline-block;
     background-color: rgba(0, 0, 0, 0.434);
